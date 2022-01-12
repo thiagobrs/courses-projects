@@ -1,2 +1,2 @@
 # courses-projects
-Projects developed for courses I took in the past few years.
+Projects developed for other courses I took in the past few years.
